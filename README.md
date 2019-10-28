@@ -1,2 +1,4 @@
 # LECT30
-Local
+
+Local and remote
+
